@@ -251,6 +251,11 @@ The [LoopDocs instructions: Install on Phone](https://loopkit.github.io/loopdocs
     
     For *LoopFollow* v4.0 through 4.3, you had to manually add that capability to the Identifier. Thanks to our friends at fastlane, who updated their tool, this manual action is no longer necessary.
 
+## Building LoopFollow 5.1.10 (dev)
+
+If you're updating from an earlier version of LoopFollow to 5.1.10, you will need to run Add Identifiers (dev), then add the LoopFollow App Group to the LoopFollow Live Activity identifier. Build LoopFollow (dev).  
+
+
 ## Legacy: Updating from v3.x
 
 Given that a Browser Build must be rebuilt every 90 days, the instructions here are unlikely to be required.
